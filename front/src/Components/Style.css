@@ -1,0 +1,136 @@
+#Search{
+    background-color: #2c333c;
+}
+.search-input::placeholder{
+    color: #b7b7b7;
+}
+.search-input{
+    color: #2c333c;
+}
+.login{
+    background-color: #34A853;
+    border: none;
+}
+.login:hover{
+    background-color: #ffffff;
+    border:2px solid #34A853;
+    color: #2c333c;
+}
+.login-btn{
+    background-color: #34A853;
+    color: #ffffff;
+}
+#Password-input::placeholder{
+    padding-left: 10px;
+}
+.banner{
+    background-image: url("../Assests/image\ 1.png");
+    background-size: cover;
+    opacity:0.9;
+}
+.categories{
+    background-color: #f5f5f5;
+}
+.All:active{
+    font-weight:bolder;
+}
+progress::-webkit-progress-value {
+    background-color: #2c333c;
+}
+progress::-webkit-progress-bar {
+    background-color: #34A853;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.profile img{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+}
+.card img{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.monthlyFunds{
+    background-color: #ebfaff;
+}
+.donation-button{
+    background-color: #01bfbd;
+}
+.content{
+    color: #015c7e;
+}
+.Talk{
+    border: 2px solid #01bfbd;
+    padding: 5px;
+    border-radius: 10px;
+   
+}
+.Contact{
+    background-color: #f5f5f5;
+}
+.Instagram{
+    background-color: #2a406d;
+}
+.whatsapp{
+    background-color: #0c8646;
+}
+.banner{
+    width:100%;
+}
+.progress{
+    width: 300px;
+    height: 5px;
+}
+.title{
+    margin-left: 85px;
+    color: #2c333c;
+    font-weight: 700;
+}
+.details{
+    color: #ebfaff;
+    background-color: #34A853;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.btn-maintain{
+    color: #2c333c;
+    border-radius: 3px;
+    border: 2px solid #ebfaff
+}
+.btn-maintain:hover{
+    background-color: white;
+    color: #34A853;
+    transition: 0.3s;
+}
+.report{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.Manager{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.bannerImage{
+    width: 320px;
+    max-height: 186px;
+}
+.bannerDetails{
+    width: 480px;
+    max-height: 280px;
+}
+.profileImage{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover; 
+}
+.banner_h{
+    height: 500px;
+}
+.donation{
+    width: 600px;
+}
+.donation-card{
+    background-image: url("../Assests/donation.avif");
+}
